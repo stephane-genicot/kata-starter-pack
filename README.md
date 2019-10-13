@@ -14,7 +14,7 @@ One posibility is to clone the repo and work on a branch. Creating a branch can 
 git checkout -b <name of branch>
 ```
 
-I would suggest to name the branch something like ```2019_10_11_numberToWordKata```
+I would suggest to name the branch something like ```yyyy_mm_dd_kata```
 
 ## Download as zip
 
