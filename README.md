@@ -1,11 +1,10 @@
-# Starter for a java code kata
-
-This repository is there to allow you starting a new code kata fast.
+# kata-js-start
+A repository to start from for javascript katas
 
 Requirements:
 
-* Java (minimally 1.8)
-* Maven
+* npm
+* node
 
 ## Clone and work on branch
 
@@ -26,4 +25,18 @@ Don't forget to init the git repository:
 
 ```bash
 git init
+```
+
+## Getting started
+
+After you downloaded the project you should install the dependencies. This means at least do the following:
+
+```bash
+npm install
+```
+
+To run the tests, use the standard way of running tests in npm:
+
+```bash
+npm test
 ```
