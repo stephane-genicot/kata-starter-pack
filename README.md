@@ -8,6 +8,7 @@ Depending on the language you want to use, you can clone one of the following br
 * java-code-base
 * js-code-base
 * swift-code-base
+* kotlin-code-base
 
 Instructions on how to clone or download the repos are available in README of each branch.
  
